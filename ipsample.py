@@ -18,9 +18,9 @@ ip2 =get_my_ip_address(remote_server)
 
 #replace the x's with your info!
 #remember to allow third party api's to use your senderAddress gmail account!
-senderAddress = "racistclarkson@gmail.com";
-recieverAddress = "darthsoodo@gmail.com";
-senderPassword = "WRHS1184";
+senderAddress = "xxx";
+recieverAddress = "xxx";
+senderPassword = "xxx";
 subject = "Raspberry Pi Local IP";
 body = "The IP address is: " + ip + " | "+ ip2;
 
